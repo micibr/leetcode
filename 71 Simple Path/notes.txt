@@ -1,0 +1,1 @@
+instead of iterating through the path (string), should establish groups between the '/' by doing str.split('/'). From there on,do stack manipulations listed in the problem description
